@@ -7,3 +7,4 @@ const Footer = () => {
 }
 
 export default Footer;
+This is done by QA-Lira
